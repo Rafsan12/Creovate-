@@ -1,0 +1,184 @@
+[
+  {
+    "id": 1,
+    "category": "Figma",
+    "name": "Figma Template",
+    "description": "Modern UI design template.",
+    "price": "$25"
+  },
+  {
+    "id": 2,
+    "category": "Website",
+    "name": "Website Template",
+    "description": "Responsive website designs.",
+    "price": "$50"
+  },
+  {
+    "id": 3,
+    "category": "Video",
+    "name": "Promo Video",
+    "description": "High-quality promotional video.",
+    "price": "$15"
+  },
+  {
+    "id": 4,
+    "category": "Graphic",
+    "name": "Graphic Design",
+    "description": "Eye-catching graphics for your brand.",
+    "price": "$30"
+  },
+  {
+    "id": 5,
+    "category": "Figma",
+    "name": "Wireframe Kit",
+    "description": "Ready-to-use wireframes.",
+    "price": "$20"
+  },
+  {
+    "id": 6,
+    "category": "Graphic",
+    "name": "Logo Design",
+    "description": "Professional logo creation.",
+    "price": "$40"
+  },
+  {
+    "id": 7,
+    "category": "Website",
+    "name": "Portfolio Template",
+    "description": "Clean and modern portfolio design.",
+    "price": "$35"
+  },
+  {
+    "id": 8,
+    "category": "Figma",
+    "name": "Dashboard UI Kit",
+    "description": "Complete dashboard components.",
+    "price": "$45"
+  },
+  {
+    "id": 9,
+    "category": "Graphic",
+    "name": "Business Card Design",
+    "description": "Custom business card layout.",
+    "price": "$15"
+  },
+  {
+    "id": 10,
+    "category": "Video",
+    "name": "Animation Clip",
+    "description": "Short animated video for branding.",
+    "price": "$25"
+  },
+  {
+    "id": 11,
+    "category": "Website",
+    "name": "E-Commerce Template",
+    "description": "Fully functional e-commerce site design.",
+    "price": "$70"
+  },
+  {
+    "id": 12,
+    "category": "Graphic",
+    "name": "Social Media Kit",
+    "description": "Templates for social media posts.",
+    "price": "$20"
+  },
+  {
+    "id": 13,
+    "category": "Video",
+    "name": "Tutorial Video",
+    "description": "Step-by-step instructional video.",
+    "price": "$50"
+  },
+  {
+    "id": 14,
+    "category": "Figma",
+    "name": "Mobile App Design",
+    "description": "End-to-end mobile app UI.",
+    "price": "$60"
+  },
+  {
+    "id": 15,
+    "category": "Graphic",
+    "name": "Poster Design",
+    "description": "Attractive poster designs for events.",
+    "price": "$25"
+  },
+  {
+    "id": 16,
+    "category": "Website",
+    "name": "Blog Template",
+    "description": "Minimal and stylish blog layout.",
+    "price": "$40"
+  },
+  {
+    "id": 17,
+    "category": "Graphic",
+    "name": "Flyer Design",
+    "description": "Creative flyer designs for promotions.",
+    "price": "$20"
+  },
+  {
+    "id": 18,
+    "category": "Figma",
+    "name": "Component Library",
+    "description": "Reusable Figma components for design.",
+    "price": "$30"
+  },
+  {
+    "id": 19,
+    "category": "Video",
+    "name": "Explainer Video",
+    "description": "Engaging video explaining your product.",
+    "price": "$40"
+  },
+  {
+    "id": 20,
+    "category": "Website",
+    "name": "Landing Page Template",
+    "description": "High-conversion landing pages.",
+    "price": "$45"
+  },
+  {
+    "id": 21,
+    "category": "Graphic",
+    "name": "Brand Identity Package",
+    "description": "Complete branding assets for your company.",
+    "price": "$75"
+  },
+  {
+    "id": 22,
+    "category": "Figma",
+    "name": "E-Commerce UI Kit",
+    "description": "UI components for e-commerce apps.",
+    "price": "$50"
+  },
+  {
+    "id": 23,
+    "category": "Video",
+    "name": "Event Highlights Video",
+    "description": "Capturing the best moments from your event.",
+    "price": "$60"
+  },
+  {
+    "id": 24,
+    "category": "Website",
+    "name": "Corporate Website Template",
+    "description": "Professional design for businesses.",
+    "price": "$80"
+  },
+  {
+    "id": 25,
+    "category": "Graphic",
+    "name": "Infographic Design",
+    "description": "Visually appealing infographics.",
+    "price": "$35"
+  },
+  {
+    "id": 26,
+    "category": "Video",
+    "name": "Product Demo Video",
+    "description": "Showcase your product in action.",
+    "price": "$70"
+  }
+]
