@@ -9,7 +9,7 @@ export default function All_Figma() {
       <div className="grid md:grid-cols-3 gap-4 mt-10 ml-4">
         {figmaProducts.map((figma) => (
           <div key={figma.id}>
-            <Link to={`/figma_Details/${figma.id}`}>
+            <Link to={`/product_details/${figma.id}`}>
               <div className="card w-96">
                 <figure>
                   <img

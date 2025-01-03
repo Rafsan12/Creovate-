@@ -9,7 +9,7 @@ export default function All_Graphic() {
       <div className="grid md:grid-cols-3 gap-4 mt-10 ml-4">
         {graphicProducts.map((graphic) => (
           <div key={graphic.id}>
-            <Link to={`/graphic_Details/${graphic.id}`}>
+            <Link to={`/product_details/${graphic.id}`}>
               <div className="card w-96">
                 <figure>
                   <img

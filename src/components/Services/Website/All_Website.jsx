@@ -9,7 +9,7 @@ export default function All_Website() {
       <div className="grid md:grid-cols-3 gap-4 mt-10 ml-4">
         {websiteProducts.map((website) => (
           <div key={website.id}>
-            <Link to={`/website_details/${website.id}`}>
+            <Link to={`/product_details/${website.id}`}>
               <div className="card w-96">
                 <figure>
                   <img

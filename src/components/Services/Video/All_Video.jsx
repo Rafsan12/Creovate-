@@ -9,7 +9,7 @@ export default function All_Video() {
       <div className="grid md:grid-cols-3 gap-4 mt-10 ml-4">
         {videoProducts.map((video) => (
           <div key={video.id}>
-            <Link to={`/video_Details/${video.id}`}>
+            <Link to={`/product_details/${video.id}`}>
               <div className="card w-96">
                 <figure>
                   <img

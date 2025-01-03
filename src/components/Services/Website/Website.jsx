@@ -6,7 +6,7 @@ export default function Video({ website }) {
   return (
     <>
       <div className="card w-96 ">
-        <Link to={`/website_details/${id}`}>
+        <Link to={`/product_details/${id}`}>
           <figure>
             <img
               src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
